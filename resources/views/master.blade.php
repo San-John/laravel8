@@ -19,4 +19,12 @@
 {{View::make('footer')}}
 
 </body>
+<style>
+    .carousel-item img{
+        height: 400px!important;
+    }
+    .custom-product{
+        height: 500px!important;
+    }
+</style>
 </html>
